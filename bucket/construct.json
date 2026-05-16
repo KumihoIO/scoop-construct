@@ -1,12 +1,12 @@
 {
-  "version": "2026.5.10",
+  "version": "2026.5.11",
   "description": "Zero overhead. Zero compromise. 100% Rust. The fastest, smallest AI assistant.",
   "homepage": "https://github.com/KumihoIO/construct-os",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/KumihoIO/construct-os/releases/download/v2026.5.10/construct-x86_64-pc-windows-msvc.zip",
-      "hash": "b904d75f117f5ce2ed695a8d174eaa3a269a2c94174667580932a20e71361ee2",
+      "url": "https://github.com/KumihoIO/construct-os/releases/download/v2026.5.11/construct-x86_64-pc-windows-msvc.zip",
+      "hash": "072041417b83923768e4a1f488c1cc45e77965d09f5d346e72fd32531cdd3b1a",
       "bin": "construct.exe"
     }
   },
