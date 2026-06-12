@@ -1,12 +1,12 @@
 {
-  "version": "2026.6.11",
+  "version": "2026.6.12",
   "description": "Zero overhead. Zero compromise. 100% Rust. The fastest, smallest AI assistant.",
   "homepage": "https://github.com/KumihoIO/Revka",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/KumihoIO/Revka/releases/download/v2026.6.11/revka-x86_64-pc-windows-msvc.zip",
-      "hash": "40a1f1e6f441ac2de613a05bd3a9a3bba97ececce7dff0488e94481f9778d2eb",
+      "url": "https://github.com/KumihoIO/Revka/releases/download/v2026.6.12/revka-x86_64-pc-windows-msvc.zip",
+      "hash": "1fe2b526926c651524076d902732e45adffe90a92567d63c507b7a685fab6ba1",
       "bin": "revka.exe"
     }
   },
